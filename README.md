@@ -7,7 +7,7 @@
 
 Список методов
 
--   post /api/register = регистрация
+-   post /api/register = регистрация.
 -   post /api/login = авторизация
 -   get /api/category = получить все категории
 -   post /api/category = с id на редактирование, без добавление категории
